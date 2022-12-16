@@ -1,4 +1,4 @@
-Trade Date,Open (Rs.),High (Rs.),Low (Rs.),Close (Rs.),ShareVolume
+Trade_Date,Open,High,Low,Close,ShareVolume
 1/2/2017,72.5,72.5,72.5,72.5,1006
 1/3/2017,74,74,71.2,71.8,4007
 1/4/2017,72.5,72.5,72.5,72.5,401
